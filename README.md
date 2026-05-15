@@ -86,7 +86,7 @@ radio_inventory/
 8. **Project & BOM** - проекты и их спецификации материалов (Bill of Materials).
 9. **AuditCycle & AuditResult** - циклы проведения инвентаризации и результаты сканирования ячеек.
 
-### Упрощенная ER-диаграмма
+### ER-диаграмма(упрощенная)
 ```mermaid
 erDiagram
     USER ||--o{ REQUEST : makes
